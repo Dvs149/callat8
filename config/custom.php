@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'PICKUP_MATERIAL_IMAGE_PATH' =>  'storage/image/pickup_material/',
+    'PICKUP_LOCATION_IMAGE_PATH' =>  'storage/image/pickup_location/',
+    'PICKUP_CHALAN_IMAGE_PATH' =>  'storage/image/pickup_chalan/',
+    'DELEIVERED_MATERIAL_IMAGE_PATH' =>  'storage/image/delivered_material/',
+    'DELEIVERED_LOCATION_IMAGE_PATH' =>  'storage/image/delivered_location/',
+    'DELEIVERED_CHALAN_IMAGE_PATH' =>  'storage/image/delivered_chalan/',
+    'BANNER_IMAGE_PATH' =>  'storage/image/banner/',
+    'STORE_IMAGE_PATH' =>  'storage/image/store/',
+    'AADHAR_CARD_PATH' =>  'storage/image/aadharCardPhoto/',
+    'LICENSE_PATH' =>  'storage/image/licensePhoto/',
+    'PASSPORT_PATH' =>  'storage/image/passportPhoto/',
+    'PRIVACY_POLICY' => 'https://callat7.com/privacy-policy',
+    'TERMS_CONDITION' => 'https://callat7.com/terms-condition',
+    'HOW_IT_WORKS' => 'https://callat7.com/how-it-works',
+    'CONTACT_US' => 'https://callat7.com/contact-us',
+    'OTP_30' => 30,
+    'OTP_15' => 15,
+    'OTP_10' => 10,
+    'OTP_5' => 5,
+    'ADDED_SUCCESFULL' => 'Added successfully',
+    'UPDATED_SUCCESFULL' => 'Updated successfully',
+];
